@@ -1,6 +1,9 @@
 # philosophers
 
 <!--
+#field
+Learning
+
 #groups
 42
 
